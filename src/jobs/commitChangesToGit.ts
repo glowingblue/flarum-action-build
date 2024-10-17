@@ -26,8 +26,8 @@ export default async function commitChangesToGit(jp: FSJetpack): Promise<void> {
 
   const config = {
     author: {
-      name: 'github-actions[bot]',
-      email: '41898282+github-actions[bot]@users.noreply.github.com',
+      name: 'glowingblue-dev',
+      email: '36635329+glowingblue-dev@users.noreply.github.com',
     },
   };
 
