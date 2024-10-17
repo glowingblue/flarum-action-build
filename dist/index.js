@@ -321,8 +321,8 @@ function commitChangesToGit(jp) {
         };
         const config = {
             author: {
-                name: 'github-actions[bot]',
-                email: '41898282+github-actions[bot]@users.noreply.github.com',
+                name: 'glowingblue-dev',
+                email: '36635329+glowingblue-dev@users.noreply.github.com',
             },
         };
         const git = (0, simple_git_1.default)(options);
